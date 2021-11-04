@@ -97,3 +97,4 @@ plt.imshow(X_new)
 plt.show()
 
 # Finish
+print('Chao trung')
